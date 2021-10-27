@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yann-Brault&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yann-Brault&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fffff)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Brault&layout=compact)

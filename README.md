@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Brault&theme=onedark)
 
-<a href="https://app.daily.dev/Rafikhy"><img src="https://api.daily.dev/devcards/69a5c28520874eb680fcdaf7a29ddc70.png?r=nqk" width="400" alt="Yann-Brault's Dev Card"/></a>
+<a href="https://app.daily.dev/Rafikhy"><img src="https://github.com/Yann-Brault/Yann-Brault/blob/main/devcard.svg" width="400" alt="Yann-Brault's Dev Card"/></a>

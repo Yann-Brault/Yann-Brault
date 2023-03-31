@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yann-Brault&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Brault&theme=onedark)
+
+<a href="https://app.daily.dev/Rafikhy"><img src="https://api.daily.dev/devcards/69a5c28520874eb680fcdaf7a29ddc70.png?r=nqk" width="400" alt="Yann-Brault's Dev Card"/></a>
